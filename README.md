@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Java, SQL
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
