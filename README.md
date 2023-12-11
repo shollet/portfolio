@@ -1,19 +1,30 @@
 # Portfolio
 
-#### Technical Skills: Python, Java, SQL
+#### Languages: Python, Java, Haskell, SQL, HTML, JavaScript, C, Bash
+
+#### Libraries: React, TensorFlow, PyTorch, Sklearn, Pandas, NumPy
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BSc, Computer Science | Université de Montréal (_Currently_)						       		
+- DEC, Pure and Applied Science | Cégep Marie-Victorin (_May 2022_)
+- Certifications, Online | Udemy (_Currently_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Mathematics & Programming Tutoring @ School Success (_September 2023 - Present_)**
+- Offering comprehensive tutoring in essential math disciplines including algebra, calculus, and statistics at college and university levels, focusing on clarifying complex concepts for improved student understanding and academic success
+- Skilled in delivering remote Python programming tutorials through LessonSpace, helping students develop and apply coding skills in a variety of real-world applications
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
+### Sentiment Analysis
+
+Developed a sentiment analysis application for Montreal restaurant customers in **Python**, utilizing Yelp's **API** for data collection and **MySQL** for data storage. The data was processed and tokenized using **NLTK**, structured with **NumPy**, and the analysis model was built and trained via **scikit-learn**. This method produced a word cloud through **Matplotlib**, showcasing prominent sentiment trends and seasonal variations in customer satisfaction levels.
+
+![Sentiment Analysis](/assets/img/sentiment_analysis.png)
+
+### Text Extraction using NLP
+
+Developped an advanced natural language processing (**NLP**) application using **Java**. The project required building advanced Map classes to store words and track their occurrences in documents. Key tasks involved text preprocessing for NLP, including tokenizing and lemmatizing, and efficiently implementing Map interfaces. Utilizing the **Stanford CoreNLP** library, I focused on managing bigrams for auto-completion and applying TFIDF for enhancing search query relevancy.
+
+![Text Extraction using NLP](/assets/img/text_extraction_nlp.jpg)
+
