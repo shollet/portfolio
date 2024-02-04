@@ -31,7 +31,7 @@ As a Research Assistant in full-stack development, I lead the development of a w
 - **Back-end:** Developing server logic with Node.js/Express, including the creation and management of a RESTful API to facilitate interactions between the front-end and the database.
 - **Database:** Designing and maintaining the database with MongoDB, optimizing the analysis and visualization of research results.
 
-![MiRISCula](/assets/img/MiRISCula.png)
+![MiRISCula](/assets/img/MiRISCula.jpg)
 
 
 ### Sentiment Analysis
