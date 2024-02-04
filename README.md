@@ -25,11 +25,11 @@
 ## Projects
 ### MiRISCula
 
-As a Research Assistant in full-stack development, I lead the development of a web application for a research project aimed at predicting microRNA binding sites. My key contributions include:
+As a Research Assistant in **Full-Stack** development, I lead the development of a web application for a research project aimed at predicting microRNA binding sites. My key contributions include:
 
-- **Front-end:** Designing reactive user interfaces with React, ensuring intuitive navigation.
-- **Back-end:** Developing server logic with Node.js/Express, including the creation and management of a RESTful API to facilitate interactions between the front-end and the database.
-- **Database:** Designing and maintaining the database with MongoDB, optimizing the analysis and visualization of research results.
+- **Front-end:** Designing reactive user interfaces with **React**, ensuring intuitive navigation.
+- **Back-end:** Developing server logic with **Node.js/Express**, including the creation and management of a **RESTful API** to facilitate interactions between the front-end and the database.
+- **Database:** Designing and maintaining the database with **MongoDB**, optimizing the analysis and visualization of research results.
 
 ![MiRISCula](/assets/img/MiRISCula.jpg)
 
@@ -40,6 +40,12 @@ Developed a sentiment analysis application for Montreal restaurant customers in 
 
 ![Sentiment Analysis](/assets/img/sentiment_analysis.png)
 
+### Arbitrage
+
+Developed a sports betting arbitrage tool, utilizing **Selenium** for dynamic web scraping. The project applies algorithms to compare odds across multiple sites in real-time, aiming to secure guaranteed profits. This work is still in progress, emphasizing efficient and strategic financial analysis.
+
+![Arbitrage](/assets/img/Arbitrage.webp)
+
 ### Text Extraction using NLP
 
 Developped an advanced natural language processing (**NLP**) application using **Java**. The project required building advanced Map classes to store words and track their occurrences in documents. Key tasks involved text preprocessing for NLP, including tokenizing and lemmatizing, and efficiently implementing Map interfaces. Utilizing the **Stanford CoreNLP** library, I focused on managing bigrams for auto-completion and applying TFIDF for enhancing search query relevancy.
@@ -47,7 +53,7 @@ Developped an advanced natural language processing (**NLP**) application using *
 ![Text Extraction using NLP](/assets/img/text_extraction_nlp.jpg)
 
 ## Honours
-### Excellence Scholarship (_April 2023_)**
+### Excellence Scholarship (_April 2023_)
 
 Issued by Programme de bourses d’excellence en sciences de l’informatique, en génie informatique et de la construction des ordinateurs et en génie électrique, électronique et des communications du ministère de l’Enseignement supérieur
 
