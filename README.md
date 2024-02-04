@@ -2,7 +2,7 @@
 
 #### Languages: Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, SQL, Haskell, Lisp
 
-#### Libraries: Git, MongoDB Atlas and Compass, IBM Cloud, VSC, Vim, Postman, Notion, AWS
+#### Tools: Git, PuTTY, MongoDB Atlas and Compass, IBM Cloud, VSC, Vim, Postman, Notion, AWS
 
 ## Education
 - BSc, Computer Science | Université de Montréal (_Currently_)						       		
@@ -45,4 +45,11 @@ Developed a sentiment analysis application for Montreal restaurant customers in 
 Developped an advanced natural language processing (**NLP**) application using **Java**. The project required building advanced Map classes to store words and track their occurrences in documents. Key tasks involved text preprocessing for NLP, including tokenizing and lemmatizing, and efficiently implementing Map interfaces. Utilizing the **Stanford CoreNLP** library, I focused on managing bigrams for auto-completion and applying TFIDF for enhancing search query relevancy.
 
 ![Text Extraction using NLP](/assets/img/text_extraction_nlp.jpg)
+
+## Honours
+### Excellence Scholarship (_April 2023_)**
+
+Issued by Programme de bourses d’excellence en sciences de l’informatique, en génie informatique et de la construction des ordinateurs et en génie électrique, électronique et des communications du ministère de l’Enseignement supérieur
+
+![EESQ](/assets/img/EESQ.jpg)
 
