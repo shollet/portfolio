@@ -1,6 +1,6 @@
 # Portfolio
 
-**[Télécharger mon CV]**({{ site.cv_url }})
+<a href="{{ site.cv_url }}" download="CV_Shayan_Hollet.pdf">**[Télécharger mon CV]**</a>
 
 #### Languages: Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, SQL, Haskell, Lisp
 
