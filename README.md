@@ -1,5 +1,7 @@
 # Portfolio
 
+**[Télécharger mon CV]**({{ site.cv_url }})
+
 #### Languages: Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, SQL, Haskell, Lisp
 
 #### Tools: Git, PuTTY, MongoDB Atlas and Compass, IBM Cloud, VSC, Vim, Postman, Notion, AWS
