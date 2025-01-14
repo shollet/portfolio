@@ -4,60 +4,65 @@
 
 #### Languages: Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, SQL, Haskell, Lisp
 
-#### Tools: Git, PuTTY, MongoDB Atlas and Compass, IBM Cloud, VSC, Vim, Postman, Notion, AWS
+#### Tools: Git, Docker, Kubernetes, Terraform, Prometheus, Jenkins X, MongoDB Atlas, Compass, IBM Cloud, VSC, Vim, Postman, Notion, AWS, Google Cloud Platform (GCP)
 
 ## Education
-- BSc, Computer Science | Université de Montréal (_Currently_)						       		
+- BSc, Computer Science | Université de Montréal (_Expected Apr. 2025_)
 - DEC, Pure and Applied Science | Cégep Marie-Victorin (_May 2022_)
-- Certifications, Online | Udemy, Udacity, edX, Coursera (_Currently_)
+- Certifications, Online | Udemy, Coursera, edX, Udacity (_Ongoing_)
 
 ## Work Experience
-**Research Assistant @ Institute for Research in Immunology and Cancer of the Université de Montréal (IRIC) (_January 2024 - Present_)**
-- Engaging in cutting-edge RNA research, applying computational methods to analyze and interpret biological data
-- Contributing to the development and maintenance of data processing pipelines, ensuring high-quality data analysis for the research project
-- Collaborating closely with research teams to design and implement bioinformatics tools and databases that support the microRNA bindings
-- Assisting in the publication of research findings in peer-reviewed journals, showcasing the impact of computational research in advancing RNA sequencing
-- Playing a key role in interdisciplinary projects, leveraging expertise in bioinformatics, data analysis, and web development to drive innovations in RNA research.
+**DevOps Developer @ Optimum IT Solutions (_Apr. 2024 – Present_)**  
+- Enhanced system reliability and security across services.
+- Increased transaction capacity by 40% with improved infrastructure scalability.
+- Reduced manual processes by 50% via automated CI/CD pipelines.
+- Achieved near-zero downtime through containerized services.
+- Improved monitoring and API security with centralized logging.
 
-**Mathematics & Programming Tutoring @ School Success (_September 2023 - Present_)**
-- Offering comprehensive tutoring in essential math disciplines including algebra, calculus, and statistics at college and university levels, focusing on clarifying complex concepts for improved student understanding and academic success
-- Skilled in delivering remote Python programming tutorials through LessonSpace, helping students develop and apply coding skills in a variety of real-world applications
-
+**Teaching Assistant @ Université de Montréal (IFT 2245 - Operating Systems) (_Jan. 2025 – Present_)**  
+- Supported students in mastering OS concepts, including processes, threads, and virtualization.
+- Provided detailed guidance for lab assignments, ensuring academic success.
 
 ## Projects
+### AI Model Optimization and Deployment Platform
+- Built a microservices platform in **Go** for model training, preprocessing, and deployment.
+- Deployed services with **Kubernetes**, using **Jenkins X** for CI/CD pipelines.
+- Integrated **Kubeflow** and **Prometheus** for workflow orchestration and monitoring.
+- Automated infrastructure provisioning with **Terraform**.
+
+### Cloud-Based ML Application Deployment
+- Built and deployed **Flask** (backend) and **Streamlit** (frontend) as Docker images via **Google Cloud Build**.
+- Automated deployments to **Google Cloud Run**, leveraging **Artifact Registry** for storage.
+- Optimized model inference through preloading and environment configuration.
+
+### Automated Arbitrage Detection Agent
+- Developed a **Selenium-based scraper** to detect sports betting arbitrage opportunities.
+- Applied statistical methods to validate and compute probability distributions.
+- Implemented an email notification system for real-time alerts.
+
 ### MiRISCula
-
-As a Research Assistant in **Full-Stack** development, I lead the development of a web application for a research project aimed at predicting microRNA binding sites. My key contributions include:
-
-- **Front-end:** Designing reactive user interfaces with **React**, ensuring intuitive navigation.
-- **Back-end:** Developing server logic with **Node.js/Express**, including the creation and management of a **RESTful API** to facilitate interactions between the front-end and the database.
-- **Database:** Designing and maintaining the database with **MongoDB**, optimizing the analysis and visualization of research results.
-
-![MiRISCula](/assets/img/MiRISCula.jpg)
-
+- **Front-end:** Designed interfaces with **React** for intuitive navigation.
+- **Back-end:** Created RESTful APIs with **Node.js/Express**.
+- **Database:** Managed data analysis and storage using **MongoDB**.
 
 ### Sentiment Analysis
-
-Developed a sentiment analysis application for Montreal restaurant customers in **Python**, utilizing Yelp's **API** for data collection and **MySQL** for data storage. The data was processed and tokenized using **NLTK**, structured with **NumPy**, and the analysis model was built and trained via **scikit-learn**. This method produced a word cloud through **Matplotlib**, showcasing prominent sentiment trends and seasonal variations in customer satisfaction levels.
-
-![Sentiment Analysis](/assets/img/sentiment_analysis.png)
-
-### Arbitrage
-
-Developed a sports betting arbitrage tool, utilizing **Selenium** for dynamic web scraping. The project applies algorithms to compare odds across multiple sites in real-time, aiming to secure guaranteed profits. This work is still in progress, emphasizing efficient and strategic financial analysis.
-
-![Arbitrage](/assets/img/Arbitrage.webp)
+- Conducted sentiment analysis for Montreal restaurants using **Yelp API**, **NLTK**, and **scikit-learn**.
+- Visualized trends with **Matplotlib** and stored data in **MySQL**.
 
 ### Text Extraction using NLP
+- Built an advanced **NLP** app in **Java**, applying **TF-IDF** for query relevance and **CoreNLP** for bigram auto-completion.
+- Implemented data preprocessing, including tokenization and lemmatization.
 
-Developped an advanced natural language processing (**NLP**) application using **Java**. The project required building advanced Map classes to store words and track their occurrences in documents. Key tasks involved text preprocessing for NLP, including tokenizing and lemmatizing, and efficiently implementing Map interfaces. Utilizing the **Stanford CoreNLP** library, I focused on managing bigrams for auto-completion and applying TFIDF for enhancing search query relevancy.
-
-![Text Extraction using NLP](/assets/img/text_extraction_nlp.jpg)
+## Skills
+**DevOps:** Docker, Kubernetes, Terraform, CI/CD (Jenkins X, GitOps)  
+**Cloud:** AWS, Google Cloud Platform (Cloud Run, Cloud Build)  
+**Programming:** Python, Java, Go, JavaScript, Bash, SQL, MongoDB  
+**Web Development:** React, Node.js, Flask, Spring Boot  
+**MLOps:** Kubeflow, Prometheus, Data Science Pipelines  
+**Operating Systems:** Linux, POSIX, Virtualization  
 
 ## Honours
-### Excellence Scholarship (_April 2023_)
-
-Issued by Programme de bourses d’excellence en sciences de l’informatique, en génie informatique et de la construction des ordinateurs et en génie électrique, électronique et des communications du ministère de l’Enseignement supérieur
+### Academic Scholarship (_April 2023_)  
+Issued by the Programme de bourses d’excellence en sciences de l’informatique, en génie informatique et des communications du ministère de l’Enseignement supérieur.
 
 ![EESQ](/assets/img/EESQ.jpg)
-
